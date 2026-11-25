@@ -1,0 +1,6 @@
+{
+  "name": "Diablo IV Druid Companion Codex",
+  "description": "Comprehensive endgame Storm & Zoo Druid companion build guide for Diablo IV featuring complete gear loadouts, Masterworking, Tempering, Spirit Boons, and interactive Paragon boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
